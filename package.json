@@ -1,0 +1,16 @@
+{
+  "name": "triangles",
+  "version": "1.0.0",
+  "description": "Tīmekļa risinājumu automatizēta testēšana un slodzes testēšana kursa laboratorijas darbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniils Buinickis",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.4.1",
+    "commander": "^12.0.0",
+    "mocha": "^10.3.0"
+  }
+}
